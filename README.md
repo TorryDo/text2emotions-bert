@@ -87,21 +87,6 @@ Also, kindly modify the different paths in the notebooks before executing.
  - Output files
 	 - bert-weights.hdf5: model weights
 
-### my-annoying-shrink-app :) 
-This is a small and funny web application that showcases our work.
+### Acknowledgement
 
-It mimics a therapist that answers his patients with irritating replies, only according to the emotions he detected after he asked the question: *"how are you feeling today ?"* 
-
-Each time the patient (you) enters a text, the therapist (our model) analyzes the emotions with their probabilities, and and the app returns these in a web interface together with a predefined "answer" for each emotion.
-
- 1. Make sure to install all the packages in "requirements.txt"
- 2. Open your terminal and navigate to the my-annoying-shrink-app directory
- 3. run the following command: `streamlit run app.py`
-
-## Team contributors 
-This work was the Capstone Project as part of a 12-weeks intensive data science program (Jedha Bootcamp) my teammates and followed:
-
-Perrine Panisset, Florian Akretche, Ibrahim Benjelloun
-
-## References
-[1] GoEmotions: A Dataset of Fine-Grained Emotions. Dorottya Demszky, Dana Movshovitz-Attias, Jeongwoo Ko, Alan Cowen], Gaurav Nemade, Sujith Ravi. [arXiv:2005.00547v2](https://arxiv.org/abs/2005.00547v2)
+https://github.com/i-benjelloun/text_emotions_detection
